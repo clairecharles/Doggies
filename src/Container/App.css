@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+font-family: 'Waiting for the Sunrise', cursive;
+    color:white;
+    
+}
+
+.home, .breed, .game{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 10px  #cdaff0;
+    font-size: 1.9em;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    display: block;
+    font-weight: bold;
+     -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+  }
+  to {
+    text-shadow: 0 0 30px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #ffffff, 0 0 60px #fff, 0 0 70px #fff, 0 0 80px #fff;
+  }
+}
+
+@media all and (max-width:650px){
+
+.push{
+    margin-right:13rem;
+}
+
+.nav-text a{
+    font-size: 15px;
+    padding: 0px 9px;              
+}
+span{
+    margin-left: 4px;
+}
+
+h1{
+  font-size: 20px;
+}
+}

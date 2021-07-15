@@ -1,0 +1,29 @@
+.tc{
+  margin-top: 30px;
+  align-items: center;
+}
+
+input{
+  width: 30%;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.tc img{
+     width: 250px;
+    height: 170px;
+    border-radius: 20px;
+    border: 2px rgb(84, 45, 175)  solid;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 9px #9792ce 
+
+}
+
+@media all and (max-width:900px){
+
+}
