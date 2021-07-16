@@ -68,7 +68,7 @@ input{
     box-sizing: border-box;
     list-style: none;
     color: black;
-    width: fit-content;
+    width:100%;
 }
 
 .form-group{
