@@ -96,6 +96,12 @@ margin: 10px 0px;
         box-sizing: content-box;
     box-shadow: 0px 0px 9px #9792ce ;
 }
+
+.special-form{
+margin: 10px 0px;
+    width: 25px;
+    margin-left: 35px;
+}
 .form-group{
 margin: 10px 0px;
     width: 25px;
