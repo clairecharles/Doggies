@@ -74,13 +74,13 @@ input{
 .form-group{
 margin: 10px 0px;
     width: 50%;
-    margin-left: 68px;
+    margin-left: 75px;
 }
 
 .special-form{
 margin: 10px 0px;
     width: 50%;
-    margin-left: 68px;
+    margin-left: 75px;
 }
 
 @media all and (max-width:1200px){
