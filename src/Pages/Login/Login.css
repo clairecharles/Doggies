@@ -68,12 +68,12 @@ input{
     box-sizing: border-box;
     list-style: none;
     color: black;
-    width:100%;
+    width:20%;
 }
 
 .form-group{
 margin: 10px 0px;
-    width: 55px;
+    width: 85px;
     margin-left: 68px;
 }
 
