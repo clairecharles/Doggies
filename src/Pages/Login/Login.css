@@ -73,13 +73,13 @@ input{
 
 .form-group{
 margin: 10px 0px;
-    width: 85px;
+    width: 100%;
     margin-left: 68px;
 }
 
 .special-form{
 margin: 10px 0px;
-    width: 90px;
+    width: 100%;
     margin-left: 68px;
 }
 
