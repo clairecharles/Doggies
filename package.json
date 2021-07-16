@@ -1,6 +1,6 @@
 {
-  "name": "claire-me.github.io",
-  "homepage": "https://claire-me.github.io/",
+  "name": "Doggies",
+  "homepage": "https://doggies.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
